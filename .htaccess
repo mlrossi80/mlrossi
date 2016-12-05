@@ -1,0 +1,10 @@
+# Use mod_rewrite to allow for .html, .php, or urls lacking a file extension
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Set homepage
+DirectoryIndex /index.php
+
+# Prevent directory viewing
+Options -Indexes

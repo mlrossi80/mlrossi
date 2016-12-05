@@ -1,0 +1,27 @@
+@import url("bootstrap-lg-fix.css");
+@import url("global.css");
+@import url("navbar.css");
+
+/**************************** HEADER ****************************/
+
+.logoblock {
+	margin-top: 30px;
+}
+
+.logoblock img {
+	padding-top: 2px;
+}
+
+@media (min-width: 768px) {
+	.logoblock {
+		margin-top: 60px;
+		margin-bottom: 60px;
+	}
+}
+
+/**************************** INDEX ****************************/
+
+.bio {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}

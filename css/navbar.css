@@ -1,0 +1,116 @@
+/**************************** NAV BAR ****************************/
+
+.navbar-fixed-top {
+	background: black;
+}
+.navmenulist {
+	padding: 0;
+}
+
+
+/**************************** STATIC (SUB) NAV BAR ****************************/
+
+.navbar-default.navbar-static-top {
+	padding-top: 85px;
+	background-image: none;
+	background-repeat: no-repeat;
+	box-shadow: none;
+	border-bottom: none;
+	background: white;
+}
+
+.navbar-static-top { /* for second nav */
+ 	text-transform: uppercase;
+ 	margin-top: -25px;
+ 	margin-bottom: 20px;
+
+}
+
+.spotlight .navbar-static-top { 
+ 	margin-bottom: 0px; /* none on spotlight pages */
+}
+
+.navbar-static-top .navbar-nav>li {
+	margin-left: 15px;
+}
+
+.navbar-static-top .navbar-nav>li>a {
+	text-shadow: none;
+	text-decoration: none;
+	color: black;
+	font-weight: 400;
+	/*letter-spacing: -0.05em;*/
+	letter-spacing: 0.1em;
+	font-size: 0.9em;
+}
+
+.navbar-static-top .navbar-nav>li>a:focus, 
+.navbar-static-top .navbar-nav>li>a:hover {
+	color: gray !important;
+}
+
+.navbar-static-top .navbar-nav>.active>a, 
+.navbar-static-top .navbar-nav>.active>a:focus, 
+.navbar-static-top .navbar-nav>.active>a:hover {
+	font-weight: 700;
+	background-color: white;
+}
+
+.navbar-static-top .navbar-nav>.open>a, 
+.navbar-static-top .navbar-nav>.active>a {
+	background-image: none;
+	box-shadow: none;
+	background-color: white;
+}
+
+
+
+/*FOR DESKTOP*/
+@media (min-width: 768px) {
+	.navbar-static-top > .container {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.navbar-static-top .navbar-nav>li {
+		margin-left: 0;
+	}	
+
+	.navbar-static-top .navbar-nav>li:first-child > a,
+	.navbar-static-top .navbar-nav>li:first-child > a:focus,
+	.navbar-static-top .navbar-nav>li:first-child > a:hover {
+		padding-left: 0;
+	}
+
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+
+/*FOR SMALL DESKTOP 768 - 992*/
+@media (min-width: 768px) and (max-width: 992px) {
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+/*FOR MED + LARGE DESKTOP 992 UP */
+@media (min-width: 992px) {
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+button.navbar-toggle {
+	margin-right: 30px !important;
+}

@@ -1,0 +1,117 @@
+
+
+/**************************** STATIC (SUB) NAV BAR ****************************/
+
+.navbar-default.navbar-static-top {
+	background-image: none;
+	background-repeat: no-repeat;
+	box-shadow: none;
+	border-bottom: 1px solid black;
+	background: white;
+}
+
+.navbar-static-top { /* for second nav */
+ 	text-transform: uppercase;
+ 	margin-top: -25px;
+ 	margin-bottom: 20px;
+ 	background: white;
+}
+
+.spotlight .navbar-static-top { 
+ 	margin-bottom: 0px; /* none on spotlight pages */
+}
+
+.navbar-static-top .navbar-nav>li {
+	margin-left: 15px;
+}
+
+.navbar-static-top .navbar-nav>li>a {
+	text-shadow: none;
+	text-decoration: none;
+	color: #000;
+	font-weight: 400;
+	letter-spacing: -0.05em;
+	font-size: 0.9em;
+}
+
+.navbar-static-top .navbar-nav>li>a:focus, 
+.navbar-static-top .navbar-nav>li>a:hover {
+	color: #0f43be;
+}
+
+.navbar-static-top .navbar-nav>.active>a, 
+.navbar-static-top .navbar-nav>.active>a:focus, 
+.navbar-static-top .navbar-nav>.active>a:hover {
+	background-color: white;
+	font-weight: 700;
+	color: #0f43be;
+}
+
+.navbar-static-top .navbar-nav>.open>a, 
+.navbar-static-top .navbar-nav>.active>a {
+	background-image: none;
+	box-shadow: none;
+}
+
+
+
+/*FOR DESKTOP*/
+@media (min-width: 768px) {
+	.navbar-static-top > .container {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.navbar-static-top .navbar-nav>li {
+		margin-left: 0;
+	}	
+
+	.navbar-static-top .navbar-nav>li:first-child > a,
+	.navbar-static-top .navbar-nav>li:first-child > a:focus,
+	.navbar-static-top .navbar-nav>li:first-child > a:hover {
+		padding-left: 0;
+	}
+
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		/*padding-left: 10px;*/ /*Ten pixels for WP toolbar edit button option*/
+		/*padding-right: 10px;*/ /*Ten pixels for WP toolbar edit button option*/
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.navbar-static-top .navbar-nav.navbar-right>li>a,
+	.navbar-static-top .navbar-nav.navbar-right>li>a:focus, 
+	.navbar-static-top .navbar-nav.navbar-right>li>a:hover {
+		/*padding-left: 10px;*/ /*Ten pixels for WP toolbar edit button option*/
+		/*padding-right: 10px;*/ /*Ten pixels for WP toolbar edit button option*/
+	}	
+}
+
+
+/*FOR SMALL DESKTOP 768 - 992*/
+@media (min-width: 768px) and (max-width: 992px) {
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+/*FOR MED + LARGE DESKTOP 992 UP */
+@media (min-width: 992px) {
+	.navbar-static-top .navbar-nav>li>a,
+	.navbar-static-top .navbar-nav>li>a:focus, 
+	.navbar-static-top .navbar-nav>li>a:hover {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+
+
+button.navbar-toggle {
+	margin-right: 30px !important;
+}
