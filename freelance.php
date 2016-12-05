@@ -31,7 +31,7 @@ include('header.php');
 
 			<p class="hidden-xs lead">Freelance</p>
 
-<div class="row bio">
+			<div class="row bio">
 				<!-- MOBILE -->
 			
 
@@ -56,71 +56,9 @@ include('header.php');
 
 				</div>
 			</div> <!-- end bio -->			
-			<dl>
-
-				<dt>Notes</dt>
-				<dd>Starting January, 2017</dd>
-				<!-- <dd><a target="_blank" hrer="#">TK..</a></dd> -->
-				<!-- <dd><a target="_blank" hrer="#">TK..</a></dd> -->
-
-			</dl>
-
 			
-
-			<br/>
-
-			<div class="row">
-				<div class="col-sm-6">
-					<dl>
-						<dt>Books</dt>
-						<dd>
-							<em>Nudge</em><br/>
-							<em>Hooked</em><br/>
-							<em>Decisive</em><br/>
-							<em>Antifragile</em><br/>
-							<em>The Black Swan</em><br/>
-							<em>Fooled By Randomness</em><br/>
-							<em>Thinking, Fast and Slow</em><br/>
-							<em>Exotic Preferences</em><br/>
-							<em>Winning Decisions</em><br/>
-							<em>Predictably Irrational</em><br/>
-							<em>The Upside of Irrationality</em><br/>
-						</dd>
-					</dl>
-				</div>
-
-				<div class="col-sm-6">
-					<dl>
-						<dt></dt>
-						<dd>
-							<em>Why Read?</em><br/> 
-							<em>Fahrenheit 451</em><br/>
-							<em>Poor Charlie's Almanac</em><br/>
-							<em>The 5 Elements of Effective Thinking</em><br/>
-							<em>How to Read a Book</em><br/>
-							<em>Self-Reliance</em><br/>
-							
-							<br/>
-
-							<em>Why Teach?</em><br/>
-							<em>The Righteous Mind</em><br/>
-							<em>The Bed of Procrustes</em><br/>
-							<em>The Better Angels of Our Nature</em><br/>
-							<em>The Sense of Style</em><br/>
-							<em>On Writing</em><br/>
-							
-						</dd>
-					</dl>
-				</div>
-			</div>
-
-				<br/>
-
-				<dt>Longer Essays...</dt>
-				<dd><a target="_blank" href="http://thoughtsinmotion.co">Thoughts in Motion</a></dd>
-				
-			</dl>
-
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non tortor sapien. Sed eu lacinia ligula, sed posuere ex. Morbi convallis enim nibh, at pretium metus sollicitudin quis. Quisque efficitur odio a urna posuere, a lobortis enim consequat. Cras in tincidunt diam. Vestibulum eu lorem mi. Sed mi sapien, porttitor at facilisis nec, tempus luctus tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ut justo consectetur, feugiat magna quis, egestas nibh. Nullam turpis neque, suscipit vel tempus ut, dignissim id nulla. Integer gravida congue nisi sit amet consequat. Vestibulum eget arcu commodo, viverra velit at, vestibulum est. Sed quis maximus mauris. Maecenas semper iaculis commodo.</p>
+			
 			
 
 		</div>
