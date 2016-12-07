@@ -23,11 +23,17 @@
           <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
           <ul class="nav navbar-nav">
 
-             <?php if ($page == 'home') { ?>
-                <li class="active"><a href="/">Home</a></li>
-              <?php } else { ?>
-                <li><a href="/">Home</a></li>
-              <?php } ?>
+            <?php if ($page == 'home') { ?>
+              <li class="active"><a href="/">Home</a></li>
+            <?php } else { ?>
+              <li><a href="/">Home</a></li>
+            <?php } ?>
+
+            <?php if ($page == 'cv') { ?>
+              <li class="active"><a href="/cv">CV</a></li>
+            <?php } else { ?>
+              <li><a href="/cv">CV</a></li>
+            <?php } ?>
             
           </ul>
           <!-- RIGHT SIDE NAV (FUTURE UPGRADE) -->
