@@ -69,6 +69,7 @@ include('header.php');
   				
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
+  				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
   				<dd>“The Bee, Ha-Shem,” West Branch. Summer 2014, Vol. 75; August 2014</dd>
 				<dd>“The Headmaster,” JERRY Magazine. Issue 7; October 2013. Web. </dd>
 				<dd>“A Flight of Birds Over Water.” Common Ground Review. Spring/Summer 15.1; August 2013.</dd>
@@ -78,14 +79,14 @@ include('header.php');
 				<dd>Regular contributor at <a href="https://microcosmos.foldscope.com/?author=739" target="_newtab">Microcosmos</a>: Multimedia essays on microbiology and naturalism.</dd>
 
 				<dt>TEACHING EXPERIENCE</dt>
-				<dd><strong>Writing Consultant</strong></dd>
+				<dd>Writing Consultant</dd>
 				<ul>
-					<li>Baruch College Writing Center, New York, NY (2014-2016)</li>
+					<li><strong>Baruch College Writing Center</strong>, New York, NY (2014-2016)</li>
 					<li>Tutored undergraduate and graduate students at CUNY’s business school</li>
 					<li>Collaboratively researched questions of social justice, international student learning, academic culture, and visual learning with colleagues in semester-long inquiry groups.</li>
 				</ul>
 				<dd></dd>
-				<dd>Columbia University Writing Center, New York, NY (2011-2016)</dd>
+				<dd><strong>Columbia University Writing Center</strong>, New York, NY (2011-2016)</dd>
 				<ul>
 					<li>Tutored undergraduate and graduate students, as well as faculty across the full range of the university departments</<li>
 					<li>Mentored incoming consultants each year at new consultant orientation and in the course of the semester</li>
@@ -93,27 +94,30 @@ include('header.php');
 					<li>Helped writing center coordinator with designing a dissertation writer’s boot camp for the spring 2016 semester</li>
 				</ul>
 				<dd></dd>
-				<dd><strong>Lecturer</strong></dd>
-				<dd>Fordham University, New York, NY (2012-2015)</dd>
+				<dd>Lecturer</dd>
+				<dd><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)
+					<ul>
+						<li>Taught First Year Writing course built around writing and maker culture
+				<dd><strong>Fordham University</strong>, New York, NY (2012-2015)</dd>
 				<ul>
 					<li>Designed and taught courses in composition and literature</li>
 					<li>Designed a course in reading comics as literature</li>
 				</ul>
 				<dd></dd>
-				<dd>Globe Institute of Technology, New York, NY (2011-2013)</dd>
+				<dd><strong>Globe Institute of Technology</strong>, New York, NY (2011-2013)</dd>
 				<ul>
 					<li>Taught courses in writing, literature, and speech</li>
 					<li>Collaboratively designed a progressive composition program for the school</li>
 				</ul>
 				<dd></dd>
-				<dd><strong>Creative Writing Instructor</strong></dd>
-				<dd>Columbia University Summer Program, New York, NY (2008-present)</dd>
+				<dd>Creative Writing Instructor</dd>
+				<dd><strong>Columbia University Summer Program</strong>, New York, NY (2008-present)</dd>
 				<ul>
 					<li>Taught small group workshops to senior-level high school students in a three-week intensive summer course</li>
 					<li>Developed a morning seminar to introduce younger high school students to new kinds of creative thinking and approaches to writing in tandem with lessons in workshop.</li>
 				</ul>
 				<dd></dd>
-				<dd>Center for Talent Development (CTD), Northwestern University, Evanston, IL (2009-2010)</dd>
+				<dd><strong>Center for Talent Development (CTD), Northwestern University</strong>, Evanston, IL (2009-2010)</dd>
 				<ul>
 					<li>Taught three-week, full day summer seminar and workshop to high school students across a full range of learning</li>
 					<li>Designed syllabus and selected appropriate readings to develop students’ understanding of narrative, poetics, and playwriting.</li>
