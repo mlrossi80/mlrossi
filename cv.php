@@ -98,6 +98,8 @@ include('header.php');
 				<dd><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)
 					<ul>
 						<li>Taught First Year Writing course built around writing and maker culture</li>
+				</ul>
+				<dd></dd>
 				<dd><strong>Fordham University</strong>, New York, NY (2012-2015)</dd>
 				<ul>
 					<li>Designed and taught courses in composition and literature</li>
