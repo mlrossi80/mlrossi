@@ -207,7 +207,16 @@ include('header.php');
 				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
 				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
 
-			</dl>			
+			</dl>	
+
+
+			<!-- This is hacky, but add a bunch of space to the bottom of the document -->
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>		
 
 		</div>
 	</div> <!-- end row -->	
