@@ -81,7 +81,7 @@ include('header.php');
 				<dt>TEACHING EXPERIENCE</dt>
 				<dd>Writing Consultant</dd>
 				<ul>
-					<li><strong>Baruch College Writing Center</strong>, New York, NY (2014-2016)</li>
+				<dd><strong>Baruch College Writing Center</strong>, New York, NY (2014-2016)</dd>
 					<li>Tutored undergraduate and graduate students at CUNY’s business school</li>
 					<li>Collaboratively researched questions of social justice, international student learning, academic culture, and visual learning with colleagues in semester-long inquiry groups.</li>
 				</ul>
