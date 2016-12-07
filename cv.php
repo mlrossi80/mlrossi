@@ -75,7 +75,7 @@ include('header.php');
 				<dd>“Every Little Farm Girl Knows How to Fix a Tractor,” New York Tyrant. Vol. 1; August 2006.</dd>
 				<dd>“Face Mongers,” Mudlark Electronic Journal of Poetry & Poetics. Mudlark Flash, No. 15; January 2002.</dd>
 				<dd></dd>
-				<dd>Regular contributor at Microcosmos, a multimedia blog of microbiology: https://microcosmos.foldscope.com/?author=739/</dd>
+				<dd>Regular contributor at <a href="https://microcosmos.foldscope.com/?author=739">Microcosmos</a>: Multimedia essays on microbiology and naturalism</dd>
 
 				<dt>TEACHING EXPERIENCE</dt>
 				<dd><strong>Writing Consultant</strong></dd>
