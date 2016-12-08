@@ -112,6 +112,7 @@ include('header.php');
 				<dd></dd>
 				<dd>Lecturer</dd>
 				<dd><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)
+					<dd></dd>
 					<ul>
 						<li>Taught First Year Writing course built around writing and maker cultures</li>
 				</ul>
@@ -151,19 +152,28 @@ include('header.php');
 				<dd>Public Speaking</dd>
 
 				<dt>EDITORIAL AND FREELANCE</dt>
-				<dd><strong>Pedagogical Consultant and Content Editor, One Month, New York, NY (2015)</strong></dd>
+				<dd><strong>One Month</strong>, New York, NY (2015)</dd>
+				<dd>Pedagogical Consultant and Content Editor</dd>
 				<ul>
 					<li>Wrote and edited blog posts for Learning Library</li>
 					<li>Consulted on matters of pedagogy and strategies for future course development
 					<li>Researched and interviewed entrepreneurs for the blog</li>					
 				</ul>
 				<dd></dd>
-				<dd><strong>Graphic Novels Reviewer, Publisher’s Weekly, New York, NY (2011-2013)</strong></dd>
-
+				<dd><strong>Publisher’s Weekly</strong>, New York, NY (2011-2013)</dd>
+				<dd>Graphic Novels Reviewer</dd>
+					<ul>
+					<li>Previewed and evaluated upcoming collections of comics</li>
+					<li>Wrote reviews of each book with a focus on art and writing</li>
+					</ul>
 
 				<dd><strong>Columbia: A Journal of Literature and Art, New York, NY (2008-2009)</strong></dd>
 				<dd>Fiction Reader</dd>
 				<ul>
+					<li>Read incoming manuscripts from slush pile</li>
+					<li>Collaborated with fiction editor in acquisition of new stories</li>
+					<li>Communicated with writers on editorial matters</li>
+				</ul>
 				<dd></dd>
 
 				<dt>ADMINISTRATION</dt>
