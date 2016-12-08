@@ -190,19 +190,19 @@ include('header.php');
 				</ul>
 
 				<dt>PROJECTS</dt>
-				<dd><strong>The Hateful Beast of the North Sea</strong>(September 2016)
+				<dd><strong>The Hateful Beast of the North Sea</strong> (September 2016)</dd>
 				<dd>Script Editor</dd>
 				<ul>
 					<li>Consultant on the story development of an interactive comic/musical theater performance
 				</ul>
 				<dd></dd>
-				<dd><strong>Sharp+Weird</strong>(February 2016-Present)</dd>
+				<dd><strong>Sharp+Weird</strong> (February 2016-Present)</dd>
 				<ul>
 				<dd>Script Developer</dd>
 					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
 				<dd></dd>
-				<dd><strong>Microcosmos Blog, Stanford University</strong>(Sept 2015-Present)</dd>
+				<dd><strong>Microcosmos Blog, Stanford University</strong> (Sept 2015-Present)</dd>
 				<ul>
 					<li>Invited Participant in 2016 NatGeo Bioblitz</li>
 					<lI>Images and interviews used in 
@@ -210,7 +210,6 @@ include('header.php');
 					<li>Engage with community of scientists and educators on effectively using science in classrooms</li>
 				</ul>
 				<dt>CONFERENCE PRESENTATIONS</dt>
-				<dd>Workshop Presenter (April 2016)</dd>
 				<dd><strong>Northeast Writing Center Association Conference</strong>, Keene, NH (April 2016)</dd>
 				<dd>Workshop Presenter</dd>
 				<ul>
