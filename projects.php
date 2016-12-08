@@ -1,7 +1,7 @@
 <?php 
 // $ogimage = '';
-$page = 'freelance';
-$title = 'Freelance';
+$page = 'projects';
+$title = 'Projects';
 include('header.php'); 
 ?>
 
