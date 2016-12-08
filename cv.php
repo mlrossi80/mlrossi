@@ -197,8 +197,8 @@ include('header.php');
 				</ul>
 				<dd></dd>
 				<dd><strong>Sharp+Weird</strong> (February 2016-Present)</dd>
-				<ul>
 				<dd>Script Developer</dd>
+				<ul>
 					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
 				<dd></dd>
