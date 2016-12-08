@@ -66,6 +66,7 @@ include('header.php');
 			<p><strong>Citizen Science</strong></p>
 
 			<p><strong>Entrepreneurship</strong></p>
+			<a href="http://learn.onemonth.com/the-best-text-editors-for-beginners" target="_newtab">learning to code</a>, <a href="http://learn.onemonth.com/doodlers-day-how-to-make-great-infographics-on-the-fly" target="_newtab">multimodal thinking</a>, and <a href="http://learn.onemonth.com/why-i-built-a-microscope-instead-of-writing-my-book" target="_newtab">creativity as a learning strategy</a>
  </p>
 			
 			

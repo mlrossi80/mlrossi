@@ -66,7 +66,12 @@ include('header.php');
 			<!-- Bootstrap description list for CV -->
 			<!-- http://getbootstrap.com/css/#description -->
 			<dl>
-  				
+  				<dt>EDUCATION</dt>
+				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
+				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
+				<ul>
+				<dd></dd>
+
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
   				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
@@ -78,9 +83,20 @@ include('header.php');
 				<dd></dd>
 				<dd><strong>Blog Posts</strong></dd>
 				<dd>Regular contributor at <a href="https://microcosmos.foldscope.com/?author=739" target="_newtab">Microcosmos</a>: Multimedia essays on microbiology and naturalism.</dd>
-				<dd>Editor and contributor at One Month Learning Library
+				<dd>Editor and contributor at <a href="http://learn.onemonth.com/author/matthew-rossi" target="_newtab">One Month Learning Library</a>: Essays on creativity and coding.
+				<ul>
+				<dd></dd>
 
-				<dt>TEACHING EXPERIENCE</dt>
+				<dt>AWARDS AND FELLOWSHIPS</dt>
+				<dd>Playa Artist Residency, Summerlake, Oregon, November 2016</dd>
+				<dd>Robert J. Connors Memorial Scholarship, Northeastern Writing Center Association, March 2014.</dd>
+				<dd>Columbia Artists/Teachers Teaching Fellowship, Columbia University School of the Arts, 2007-2010.</dd>
+				<dd>Writing Program Fellowship, Columbia University School of the Arts 2007-2009.</dd>
+				<dd>Francis Hulme Play Writing Award, UNCA 1999.</dd>
+				<ul>
+				<dd></dd>
+
+				<dt>TEACHING</dt>
 				<dd>Writing Consultant</dd>
 				<ul>
 				<dd></dd>
@@ -100,7 +116,7 @@ include('header.php');
 				<dd>Lecturer</dd>
 				<dd><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)
 					<ul>
-						<li>Taught First Year Writing course built around writing and maker culture</li>
+						<li>Taught First Year Writing course built around writing and maker cultures</li>
 				</ul>
 				<dd></dd>
 				<dd><strong>Fordham University</strong>, New York, NY (2012-2015)</dd>
@@ -137,40 +153,46 @@ include('header.php');
 				<dd>Creative Writing Seminar</dd>
 				<dd>Public Speaking</dd>
 
-				<dt>ADMINISTRATIVE EXPERIENCE</dt>
-				<dd><strong>Coordinator, Columbia Artists Teachers Program, New York, NY (2009-2010)</strong></dd>
-				<dd></dd>
-				<dd><strong>Codirector, Columbia Artists Teachers Program, New York, NY (2008-2009)</strong></dd>
-				<dd></dd>
-				<dd><strong>Founder and Artistic Associate, Tantalus Theater Group, Chicago, IL (2003-2007)</strong></dd>
-				<ul>
-					<li>Coauthored and produced site-specific and guerrilla theater pieces dealing with ritual and culture</li>
-				</ul>
-
-				<dt>FREELANCE EXPERIENCE</dt>
+				<dt>EDITORIAL AND FREELANCE</dt>
 				<dd><strong>Pedagogical Consultant and Content Editor, One Month, New York, NY (2015)</strong></dd>
 				<ul>
-					<li>Wrote and edited blog posts on <a href="http://learn.onemonth.com/the-best-text-editors-for-beginners" target="_newtab">learning to code</a>, <a href="http://learn.onemonth.com/doodlers-day-how-to-make-great-infographics-on-the-fly" target="_newtab">multimodal thinking</a>, and <a href="http://learn.onemonth.com/why-i-built-a-microscope-instead-of-writing-my-book" target="_newtab">creativity as a learning strategy</a></li>
-					<li>Pedagogical consultant
-					<li>Researched and interviewed entrepreneurs for the blog</li>
-					<li>Consulted on pedagogical strategies for One Month’s online Learning Library</li>
+					<li>Wrote and edited blog posts for Learning Library</li>
+					<li>Consulted on matters of pedagogy and strategies for future course development
+					<li>Researched and interviewed entrepreneurs for the blog</li>					
 				</ul>
 				<dd></dd>
 				<dd><strong>Graphic Novels Reviewer, Publisher’s Weekly, New York, NY (2011-2013)</strong></dd>
 
-				<dt>AWARDS AND FELLOWSHIPS</dt>
-				<dd>Playa Artist Residency, Summerlake, Oregon, November 2016</dd>
-				<dd>Robert J. Connors Memorial Scholarship, Northeastern Writing Center Association, March 2014.</dd>
-				<dd>Columbia Artists/Teachers Teaching Fellowship, Columbia University School of the Arts, 2007-2010.</dd>
-				<dd>Writing Program Fellowship, Columbia University School of the Arts 2007-2009.</dd>
-				<dd>Francis Hulme Play Writing Award, UNCA 1999.</dd>
 
-				<dt>PROFESSIONAL ACTIVITY</dt>
+				<dd><strong>Columbia: A Journal of Literature and Art, New York, NY (2008-2009)</strong></dd>
+				<dd>Fiction Reader</dd>
+				<ul>
+				<dd></dd>
+
+				<dt>ADMINISTRATION</dt>
+				<dd><strong>Columbia Artists Teachers Program</strong>, New York, NY (2009-2010)</dd>
+				<dd>Coordinator</dd>
+				<dd></dd>
+				<dd><strong>Columbia Artists Teachers Program</strong>, New York, NY (2008-2009)</dd>
+				<dd>Codirector</dd>
+				<dd></dd>
+				<dd><strong>Tantalus Theater Group</strong>, Chicago, IL (2003-2007)</dd>
+				<dd>Founding Artistic Associate</dd>
+				<ul>
+					<li>Coauthored and produced site-specific and guerrilla theater pieces dealing with ritual and culture</li>
+				</ul>
+
+				<dt>PROJECTS</dt>
+				<dd><strong>The Hateful Beast of the North Sea</strong>(September 2016)
+				<dd>Script Editor</dd>
+					<li>Consultant on the story development of an interactive comic/musical theater performance
+
 				<dd><strong>Sharp+Weird (February 2016-Present)</strong></dd>
+				<ul>
 				<dd>Script Developer</dd>
 					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
-
+				<dd><strong>
 
 				<dd><strong>Microcosmos Blog, Stanford University (Sept 2015-Present)</strong></dd>
 				<ul>
@@ -179,7 +201,7 @@ include('header.php');
 					<li>Regularly post essays on microbiology and urban spaces</li>
 					<li>Engage with community of scientists and educators on effectively using science in classrooms</li>
 				</ul>
-
+				<dt>CONFERENCE PRESENTATIONS</dt>
 				<dd>Workshop Presenter (April 2016)</dd>
 				<dd><strong>Northeast Writing Center Association Conference</strong>, Keene, NH (April 2016)</dd>
 				<dd>Workshop Presenter</dd>
@@ -193,17 +215,17 @@ include('header.php');
 					<li>Presenting “Grammars of Design, Making, and Motion in the Writing Center”</li>
 				</ul>
 
-
-				<dd><strong>Exchange Rates: The Bushwick International Art Expo</strong>, Brooklyn, NY (October 2014)</dd>
-				<dd>Translation Reading </dd>
-				<ul>
-					<li>Panel member in “Renderings: Encounters and Translations,” discussion of artists and writers on translations</li>
-				</ul>
-
 				<dd><strong>Northeast Writing Center Association Conference</strong>, Providence, RI (March 2014)</dd>
 				<dd>Conference Presentation</dd>
 				<ul>
 					<li>Presenting “Use Your Doodle,” on translating visual grammars in writing center practice</li>
+				</ul>
+
+				<dt>INVITED LECTURES</dt>
+				<dd><strong>Exchange Rates: The Bushwick International Art Expo</strong>, Brooklyn, NY (October 2014)</dd>
+				<dd>Translation Reading </dd>
+				<ul>
+					<li>Panel member in “Renderings: Encounters and Translations,” discussion of artists and writers on translations</li>
 				</ul>
 
 				<dd><strong>Pocket Utopia Gallery</strong>, New York, NY (April 2013)</dd>
@@ -211,13 +233,6 @@ include('header.php');
 				<ul>
 					<li>Gallery talk on narrative and visual art to accompany Paul D’Agostino’s “Twilit Ensembles”</li>
 				</ul>
-
-				<dd><strong>Columbia: A Journal of Literature and Art, New York, NY (2008-2009)</strong></dd>
-				<dd>Fiction Reader</dd>
-
-				<dt>EDUCATION</dt>
-				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
-				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
 
 			</dl>	
 
