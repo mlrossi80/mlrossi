@@ -86,7 +86,7 @@ include('header.php');
 				<dd>Editor and contributor at <a href="http://learn.onemonth.com/author/matthew-rossi" target="_newtab">One Month Learning Library</a>: Essays on creativity and coding.
 				<ul>
 				<dd></dd>
-
+				<ul>
 				<dt>AWARDS AND FELLOWSHIPS</dt>
 				<dd>Playa Artist Residency, Summerlake, Oregon, November 2016</dd>
 				<dd>Robert J. Connors Memorial Scholarship, Northeastern Writing Center Association, March 2014.</dd>
