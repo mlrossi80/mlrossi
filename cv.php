@@ -76,6 +76,7 @@ include('header.php');
 				<dd>“Every Little Farm Girl Knows How to Fix a Tractor,” New York Tyrant. Vol. 1; August 2006.</dd>
 				<dd>“Face Mongers,” Mudlark Electronic Journal of Poetry & Poetics. Mudlark Flash, No. 15; January 2002.</dd>
 				<dd></dd>
+				<dd><strong>Blog Posts</dd>
 				<dd>Regular contributor at <a href="https://microcosmos.foldscope.com/?author=739" target="_newtab">Microcosmos</a>: Multimedia essays on microbiology and naturalism.</dd>
 
 				<dt>TEACHING EXPERIENCE</dt>
@@ -148,7 +149,7 @@ include('header.php');
 				<dt>FREELANCE EXPERIENCE</dt>
 				<dd><strong>Editor and Writer, One Month, New York, NY (2015)</strong></dd>
 				<ul>
-					<li>Wrote and edited blog posts on relevant subjects of interest to an educational startup for entrepreneurs</li>
+					<li>Wrote and edited blog posts on<a href="http://learn.onemonth.com/the-best-text-editors-for-beginners" target="_newtab">learning to code</a>, <href="http://learn.onemonth.com/doodlers-day-how-to-make-great-infographics-on-the-fly" target="_newtab">multimodal thinking</a>, and <a href="http://learn.onemonth.com/why-i-built-a-microscope-instead-of-writing-my-book" target="_newtab">creativity as a learning strategy</a></li>
 					<li>Researched and interviewed entrepreneurs for the blog</li>
 					<li>Consulted on pedagogical strategies for One Month’s online Learning Library</li>
 				</ul>
@@ -170,39 +171,42 @@ include('header.php');
 				</ul>
 
 
-				<dd><strong>Super User, Microcosmos Blog, Stanford University (Sept 2015-Present)</strong></dd>
+				<dd><strong>Microcosmos Blog, Stanford University (Sept 2015-Present)</strong></dd>
 				<ul>
+					<li>Invited Participant in 2016 NatGeo Bioblitz</li>
+					<lI>Images and interviews used in 
 					<li>Regularly post essays on microbiology and urban spaces</li>
 					<li>Engage with community of scientists and educators on effectively using science in classrooms</li>
 				</ul>
 
-				<dd><strong>Workshop Presenter (April 2016)</strong></dd>
-				<dd>Northeast Writing Center Association Conference, Keene, NH</dd>
+				<dd>Workshop Presenter (April 2016)</dd>
+				<dd><strong>Northeast Writing Center Association Conference</strong>, Keene, NH (April 2016)</dd>
+				<dd>Workshop Presenter</dd>
 				<ul>
 					<li>Presenting “Take Note” an interactive workshop on note taking strategies</li>
 				</ul>
 
-				<dd><strong>Conference Presentation (October 2015)</strong></dd>
-				<dd>International Writing Center Association Conference, Pittsburgh, PA</dd>
+				<dd><strong>International Writing Center Association Conference</strong>, Pittsburgh, PA(October 2015)</dd>
+				<dd>Conference Presentation </dd>
 				<ul>
 					<li>Presenting “Grammars of Design, Making, and Motion in the Writing Center”</li>
 				</ul>
 
 
-				<dd><strong>Translation Reading (October 2014)</strong></dd>
-				<dd>Exchange Rates: The Bushwick International Art Expo, Brooklyn, NY</dd>
+				<dd><strong>Exchange Rates: The Bushwick International Art Expo</strong>, Brooklyn, NY (October 2014)</dd>
+				<dd>Translation Reading </dd>
 				<ul>
 					<li>Panel member in “Renderings: Encounters and Translations,” discussion of artists and writers on translations</li>
 				</ul>
 
-				<dd><strong>Conference Presentation (March 2014)</strong></dd>
-				<dd>Northeast Writing Center Association Conference, Providence, RI</dd>
+				<dd><strong>Northeast Writing Center Association Conference</strong>, Providence, RI(March 2014)</dd>
+				<dd>Conference Presentation</dd>
 				<ul>
 					<li>Presenting “Use Your Doodle,” on translating visual grammars in writing center practice</li>
 				</ul>
 
-				<dd><strong>Guest Lecture (April 2013)</strong></dd>
-				<dd>Pocket Utopia Gallery, New York, NY</dd>
+				<dd><strong>Pocket Utopia Gallery</strong>, New York, NY (April 2013)</dd>
+				<dd>Guest Lecture</dd>
 				<ul>
 					<li>Gallery talk on narrative and visual art to accompany Paul D’Agostino’s “Twilit Ensembles”</li>
 				</ul>
