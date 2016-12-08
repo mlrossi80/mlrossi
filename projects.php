@@ -42,9 +42,15 @@ include('header.php');
 
 				<!-- MOBILE -->
 				<div class="visible-xs col-xs-12">
-					<p><strong>Work with me.</strong> Freelance writing, editing, and consulting.</p>
+					<p>I am interested in the overlap of creative and artistic pursuits with citizen science, engineering, entrepreneurship, and collaborative pedagogies. My work combines writing and arts projects with scientific observation, maker culture, and entrepreneurship toward the end of building new tools for creative expression and new methods for teaching and understanding the full breadth of the act of writing.</p>
+					
+					<p><strong>Writing</strong></p>
 
-				
+					<p><strong>Maker Culture</strong></p>
+
+					<p><strong>Citizen Science</strong></p>
+
+					<p><strong>Entrepreneurship</strong></p>
 
 				</div>
 
@@ -57,7 +63,7 @@ include('header.php');
 				</div>
 			</div> <!-- end bio -->			
 			
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non tortor sapien. Sed eu lacinia ligula, sed posuere ex. Morbi convallis enim nibh, at pretium metus sollicitudin quis. Quisque efficitur odio a urna posuere, a lobortis enim consequat. Cras in tincidunt diam. Vestibulum eu lorem mi. Sed mi sapien, porttitor at facilisis nec, tempus luctus tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ut justo consectetur, feugiat magna quis, egestas nibh. Nullam turpis neque, suscipit vel tempus ut, dignissim id nulla. Integer gravida congue nisi sit amet consequat. Vestibulum eget arcu commodo, viverra velit at, vestibulum est. Sed quis maximus mauris. Maecenas semper iaculis commodo.</p>
+			<p>  </p>
 			
 			
 
