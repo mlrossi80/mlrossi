@@ -36,9 +36,9 @@ include('header.php');
 			
 
 				<!-- DESKTOP -->
-				<div class="hidden-xs col-sm-4">
-					<img class="img-responsive" style="padding-top: 5px;" src="img/Matthew_Rossi_640.jpg" height="175" width="175" />
-				</div>
+				<!--<div class="hidden-xs col-sm-4">
+				<img class="img-responsive" style="padding-top: 5px;" src="img/Matthew_Rossi_640.jpg" height="175" width="175" />
+				</div>-->
 
 				<!-- MOBILE -->
 				<div class="visible-xs col-xs-12">
