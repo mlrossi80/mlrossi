@@ -64,12 +64,12 @@ include('header.php');
 			</div> <!-- end bio -->			
 			
 		
-			<h3>EDUCATION</h3>
+			<h3>Education</h3>
 			<p>MFA, Fiction Writing, Columbia University, 2010</p>
 			<p>BA, Theater, University of North Carolina at Asheville, 2000</p>
 			<p>&nbsp;</p>
 			
-			<h3>PUBLICATIONS</h3>
+			<h3>Publications</h3>
 			<p>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</p>
 			<p>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014.</p>
 			<p>“The Bee, Ha-Shem,” West Branch. Summer 2014, Vol. 75; August 2014.</p>
@@ -86,7 +86,7 @@ include('header.php');
 			
 			<p>&nbsp;</p>
 			
-			<h3>AWARDS AND FELLOWSHIPS</h3>
+			<h3>Awards and Fellowships</h3>
 			<p>Playa Artist Residency, Summerlake, Oregon, November 2016</p>
 			<p>Robert J. Connors Memorial Scholarship, Northeastern Writing Center Association, March 2014.</p>
 			<p>Columbia Artists/Teachers Teaching Fellowship, Columbia University School of the Arts, 2007-2010.</p>
@@ -95,10 +95,8 @@ include('header.php');
 	
 			<p>&nbsp;</p>
 
-			<h3>TEACHING</h3>
+			<h3>Teaching</h3>
 			<h5>Writing Consultant</h5>
-		
-			<p>&nbsp;</p>
 			
 			<p><strong>Baruch College Writing Center</strong>, New York, NY (2014-2016)</p>
 			<ul>
@@ -120,11 +118,10 @@ include('header.php');
 			
 			<h5>Lecturer</h5>
 			
-			<p><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)
-				<p>&nbsp;</p>
+			<p><strong>Michigan State University</strong>, East Lansing, MI (2016-Present)</p>
 				<ul>
 					<li>Taught First Year Writing course built around writing and maker cultures</li>
-			</ul>
+				</ul>
 			
 			<p>&nbsp;</p>
 			
@@ -160,7 +157,7 @@ include('header.php');
 				<li>Designed syllabus and selected appropriate readings to develop students’ understanding of narrative, poetics, and playwriting.</li>
 			</ul>
 
-			<h3>COURSES TAUGHT</h3>
+			<h3>Courses Taught</h3>
 			<p>Composition I and II<br/>
 			Texts and Contexts: The Short Story<br/>
 			Texts and Contexts: Art of the Graphic Novel<br/>
@@ -169,7 +166,7 @@ include('header.php');
 			Creative Writing Seminar<br/>
 			Public Speaking</p>
 
-			<h3>EDITORIAL AND FREELANCE</h3>
+			<h3>Editorial and Freelance</h3>
 			
 			<p><strong>One Month</strong>, New York, NY (2015)</p>
 			<p>Pedagogical Consultant and Content Editor</p>
@@ -200,7 +197,7 @@ include('header.php');
 
 			<p>&nbsp;</p>
 
-			<h3>ADMINISTRATION</h3>
+			<h3>Administration</h3>
 			<p><strong>Columbia Artists Teachers Program</strong>, New York, NY (2009-2010)</p>
 			<p>Coordinator</p>
 			
@@ -217,7 +214,7 @@ include('header.php');
 				<li>Coauthored and produced site-specific and guerrilla theater pieces dealing with ritual and culture</li>
 			</ul>
 
-			<h3>PROJECTS</h3>
+			<h3>Projects</h3>
 			
 			<p><strong>The Hateful Beast of the North Sea</strong> (September 2016)</p>
 			<p>Script Editor</p>
@@ -245,7 +242,7 @@ include('header.php');
 
 			<p>&nbsp;</p>
 			
-			<h3>CONFERENCE PRESENTATIONS</h3>
+			<h3>Conference Presentations</h3>
 			
 			<p><strong>Northeast Writing Center Association Conference</strong>, Keene, NH (April 2016)</p>
 			<p>Workshop Presenter</p>
@@ -271,7 +268,7 @@ include('header.php');
 
 			<p>&nbsp;</p>
 
-			<h3>INVITED LECTURES</h3>
+			<h3>Invited Lectures</h3>
 			
 			<p><strong>Exchange Rates: The Bushwick International Art Expo</strong>, Brooklyn, NY (October 2014)</p>
 			<p>Translation Reading </p>
