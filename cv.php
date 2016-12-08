@@ -193,7 +193,7 @@ include('header.php');
 				<dd><strong>The Hateful Beast of the North Sea</strong> (September 2016)</dd>
 				<dd>Script Editor</dd>
 				<ul>
-					<li>Consultant on the story development of an interactive comic/musical theater performance
+					<li>Consultant on the story development of an interactive comic/musical theater performance</li>
 				</ul>
 				<dd></dd>
 				<dd><strong>Sharp+Weird</strong> (February 2016-Present)</dd>
