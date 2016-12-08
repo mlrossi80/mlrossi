@@ -196,13 +196,13 @@ include('header.php');
 					<li>Consultant on the story development of an interactive comic/musical theater performance
 				</ul>
 				<dd></dd>
-				<dd><strong>Sharp+Weird (February 2016-Present)</strong></dd>
+				<dd><strong>Sharp+Weird</strong>(February 2016-Present)</dd>
 				<ul>
 				<dd>Script Developer</dd>
 					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
 				<dd></dd>
-				<dd><strong>Microcosmos Blog, Stanford University</strong> (Sept 2015-Present)</dd>
+				<dd><strong>Microcosmos Blog, Stanford University</strong>(Sept 2015-Present)</dd>
 				<ul>
 					<li>Invited Participant in 2016 NatGeo Bioblitz</li>
 					<lI>Images and interviews used in 
