@@ -157,6 +157,8 @@ include('header.php');
 				<li>Designed syllabus and selected appropriate readings to develop students’ understanding of narrative, poetics, and playwriting.</li>
 			</ul>
 
+			<p>&nbsp;</p>
+
 			<h3>Courses Taught</h3>
 			<p>Composition I and II<br/>
 			Texts and Contexts: The Short Story<br/>
@@ -165,6 +167,8 @@ include('header.php');
 			Creative Writing Workshop<br/>
 			Creative Writing Seminar<br/>
 			Public Speaking</p>
+
+			<p>&nbsp;</p>
 
 			<h3>Editorial and Freelance</h3>
 			
@@ -213,6 +217,8 @@ include('header.php');
 			<ul>
 				<li>Coauthored and produced site-specific and guerrilla theater pieces dealing with ritual and culture</li>
 			</ul>
+
+			<p>&nbsp;</p>
 
 			<h3>Projects</h3>
 			
