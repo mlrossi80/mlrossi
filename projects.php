@@ -56,7 +56,15 @@ include('header.php');
 
 				<!-- DESKTOP -->
 				<div class="hidden-xs col-sm-8">
-					<p><strong>Work with me.</strong> Freelance writing, editing, and consulting.</p>
+					<p><p>I am interested in the overlap of creative and artistic pursuits with citizen science, engineering, entrepreneurship, and collaborative pedagogies. My work combines writing and arts projects with scientific observation, maker culture, and entrepreneurship toward the end of building new tools for creative expression and new methods for teaching and understanding the full breadth of the act of writing.</p>
+					
+					<p><strong>Writing</strong></p>
+
+					<p><strong>Maker Culture</strong></p>
+
+					<p><strong>Citizen Science</strong></p>
+
+					<p><strong>Entrepreneurship</strong></p>
 
 					
 
