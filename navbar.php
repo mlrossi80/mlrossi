@@ -42,9 +42,9 @@
             <li>&nbsp;</li>
 
             <?php if ($page == 'projects') { ?>
-              <li class="active"><a href="projects">Freelance</a></li>
+              <li class="active"><a href="projects">Projects</a></li>
             <?php } else { ?>
-               <li><a href="projects">Freelance</a></li> 
+               <li><a href="projects">Projects</a></li> 
             <?php } ?>
 
           </ul>
