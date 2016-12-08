@@ -72,8 +72,8 @@ include('header.php');
 				<dd></dd>
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
-  				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
-  				<dd>“The Bee, Ha-Shem,” West Branch. Summer 2014, Vol. 75; August 2014</dd>
+  				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014.</dd>
+  				<dd>“The Bee, Ha-Shem,” West Branch. Summer 2014, Vol. 75; August 2014.</dd>
 				<dd>“The Headmaster,” JERRY Magazine. Issue 7; October 2013. Web. </dd>
 				<dd>“A Flight of Birds Over Water.” Common Ground Review. Spring/Summer 15.1; August 2013.</dd>
 				<dd>“Every Little Farm Girl Knows How to Fix a Tractor,” New York Tyrant. Vol. 1; August 2006.</dd>
@@ -94,9 +94,10 @@ include('header.php');
 
 				<dt>TEACHING</dt>
 				<dd>Writing Consultant</dd>
-				<ul>
+			
 				<dd></dd>
 				<dd><strong>Baruch College Writing Center</strong>, New York, NY (2014-2016)</dd>
+				<ul>
 					<li>Tutored undergraduate and graduate students at CUNY’s business school</li>
 					<li>Collaboratively researched questions of social justice, international student learning, academic culture, and visual learning with colleagues in semester-long inquiry groups.</li>
 				</ul>
