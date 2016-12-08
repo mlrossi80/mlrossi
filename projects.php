@@ -13,7 +13,7 @@ include('header.php');
 			<div class="row">
 
 				<div class="col-xs-12">
-					<h2><p class="lead" style="margin-top:-25px; margin-bottom:-50px">Freelance</p></h2>
+					<h2><p class="lead" style="margin-top:-25px; margin-bottom:-50px">[Projects]</p></h2>
 				</div>
 
 			</div>
@@ -29,7 +29,7 @@ include('header.php');
 	<div class="row">
 		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 
-			<p class="hidden-xs lead">Freelance</p>
+			<p class="hidden-xs lead">Projects</p>
 
 			<div class="row bio">
 				<!-- MOBILE -->
