@@ -185,7 +185,7 @@ include('header.php');
 					<li>Presenting “Take Note” an interactive workshop on note taking strategies</li>
 				</ul>
 
-				<dd><strong>International Writing Center Association Conference</strong>, Pittsburgh, PA(October 2015)</dd>
+				<dd><strong>International Writing Center Association Conference</strong>, Pittsburgh, PA (October 2015)</dd>
 				<dd>Conference Presentation </dd>
 				<ul>
 					<li>Presenting “Grammars of Design, Making, and Motion in the Writing Center”</li>
@@ -198,7 +198,7 @@ include('header.php');
 					<li>Panel member in “Renderings: Encounters and Translations,” discussion of artists and writers on translations</li>
 				</ul>
 
-				<dd><strong>Northeast Writing Center Association Conference</strong>, Providence, RI(March 2014)</dd>
+				<dd><strong>Northeast Writing Center Association Conference</strong>, Providence, RI (March 2014)</dd>
 				<dd>Conference Presentation</dd>
 				<ul>
 					<li>Presenting “Use Your Doodle,” on translating visual grammars in writing center practice</li>
