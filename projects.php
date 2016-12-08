@@ -42,7 +42,6 @@ include('header.php');
 
 				<!-- MOBILE -->
 				<div class="visible-xs col-xs-12">
-					<p><strong>Work with me.</strong> .</p>
 
 				
 
@@ -50,7 +49,6 @@ include('header.php');
 
 				<!-- DESKTOP -->
 				<div class="hidden-xs col-sm-8">
-					<p><strong>Work with me.</strong></p>
 
 					
 
