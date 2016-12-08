@@ -70,8 +70,7 @@ include('header.php');
 				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
 				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
 				<ul>
-				<dd></dd>
-
+					
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
   				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
@@ -86,7 +85,6 @@ include('header.php');
 				<dd>Editor and contributor at <a href="http://learn.onemonth.com/author/matthew-rossi" target="_newtab">One Month Learning Library</a>: Essays on creativity and coding.
 				<ul>
 				<dd></dd>
-				<ul>
 				<dt>AWARDS AND FELLOWSHIPS</dt>
 				<dd>Playa Artist Residency, Summerlake, Oregon, November 2016</dd>
 				<dd>Robert J. Connors Memorial Scholarship, Northeastern Writing Center Association, March 2014.</dd>
