@@ -69,8 +69,7 @@ include('header.php');
   				<dt>EDUCATION</dt>
 				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
 				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
-				<ul>
-					
+
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
   				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
