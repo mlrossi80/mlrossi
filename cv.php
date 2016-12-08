@@ -164,10 +164,9 @@ include('header.php');
 				<dd>Francis Hulme Play Writing Award, UNCA 1999.</dd>
 
 				<dt>PROFESSIONAL ACTIVITY</dt>
-				<dd><strong>Script Developer, Sharp+Weird (February 2016)</strong></dd>
-				<ul>
-					<li>Collaboratively designed “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
-					<li>Developed script trees for the game</li>
+				<dd><strong>Sharp+Weird (February 2016-Present)</strong></dd>
+				<dd>Script Developer</dd>
+					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
 
 
