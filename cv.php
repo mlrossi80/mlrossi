@@ -192,16 +192,17 @@ include('header.php');
 				<dt>PROJECTS</dt>
 				<dd><strong>The Hateful Beast of the North Sea</strong>(September 2016)
 				<dd>Script Editor</dd>
+				<ul>
 					<li>Consultant on the story development of an interactive comic/musical theater performance
-
+				</ul>
+				<dd></dd>
 				<dd><strong>Sharp+Weird (February 2016-Present)</strong></dd>
 				<ul>
 				<dd>Script Developer</dd>
 					<li>Collaboratively designing “Egg Hunt” an interactive fiction game playable through text messaging and e-mail</li>
 				</ul>
-				<dd><strong>
-
-				<dd><strong>Microcosmos Blog, Stanford University (Sept 2015-Present)</strong></dd>
+				<dd></dd>
+				<dd><strong>Microcosmos Blog, Stanford University</strong> (Sept 2015-Present)</dd>
 				<ul>
 					<li>Invited Participant in 2016 NatGeo Bioblitz</li>
 					<lI>Images and interviews used in 
