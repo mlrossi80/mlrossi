@@ -69,7 +69,7 @@ include('header.php');
   				<dt>EDUCATION</dt>
 				<dd>MFA, Fiction Writing, Columbia University, 2010</dd>
 				<dd>BA, Theater, University of North Carolina at Asheville, 2000</dd>
-
+				<ul>
   				<dt>PUBLICATIONS</dt>
   				<dd>“The Private Eye,” Gigantic Worlds. Ed. Lincoln Michel: Gigantic Books; November 2015.</dd>
   				<dd>"Interview with Jeff Vandermeer," <a href="https://electricliterature.com/interview-jeff-vandermeer-author-of-the-southern-reach-trilogy-64ff1a695945#.ejk83hv8u" target=_"newtab">Electric Literature</a>; September 2014</dd>
@@ -82,7 +82,6 @@ include('header.php');
 				<dd><strong>Blog Posts</strong></dd>
 				<dd>Regular contributor at <a href="https://microcosmos.foldscope.com/?author=739" target="_newtab">Microcosmos</a>: Multimedia essays on microbiology and naturalism.</dd>
 				<dd>Editor and contributor at <a href="http://learn.onemonth.com/author/matthew-rossi" target="_newtab">One Month Learning Library</a>: Essays on creativity and coding.
-				<ul>
 				<dd></dd>
 				<dt>AWARDS AND FELLOWSHIPS</dt>
 				<dd>Playa Artist Residency, Summerlake, Oregon, November 2016</dd>
@@ -90,7 +89,7 @@ include('header.php');
 				<dd>Columbia Artists/Teachers Teaching Fellowship, Columbia University School of the Arts, 2007-2010.</dd>
 				<dd>Writing Program Fellowship, Columbia University School of the Arts 2007-2009.</dd>
 				<dd>Francis Hulme Play Writing Award, UNCA 1999.</dd>
-				<ul>
+				</ul>
 				<dd></dd>
 
 				<dt>TEACHING</dt>
