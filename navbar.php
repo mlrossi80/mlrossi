@@ -41,11 +41,11 @@
             
             <li>&nbsp;</li>
 
-            <?php //if ($page == 'freelance') { ?>
-              <!-- <li class="active"><a href="freelance">Freelance</a></li> -->
-            <?php //} else { ?>
-              <!-- <li><a href="freelance">Freelance</a></li> -->
-            <?php //} ?>
+            <?php if ($page == 'projects') { ?>
+              <li class="active"><a href="projects">Freelance</a></li>
+            <?php } else { ?>
+               <li><a href="projects">Freelance</a></li> 
+            <?php } ?>
 
           </ul>
       	  </div> <!-- end col -->

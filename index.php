@@ -36,7 +36,6 @@ include('header.php');
 	<div class="row">
 		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 
-			<p class="hidden-xs lead">Matthew Rossi is a writer, editor, and writing consultant.</p>
 			
 			<div class="row bio">
 				<!-- MOBILE -->
@@ -52,7 +51,7 @@ include('header.php');
 
 				<!-- MOBILE -->
 				<div class="visible-xs col-xs-12">
-					<p>Matt Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
+					<p>Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
 
 					<strong><a style="color: #333;" href='&#109;ailto&#58;m&#37;6&#67;ross&#105;&#37;38&#37;30%40gm%61i%6C&#46;c&#37;6F&#37;6&#68;'>&#109;&#108;&#114;os&#115;&#105;80&#64;gma&#105;l&#46;com</a></strong></p>
 
@@ -60,7 +59,7 @@ include('header.php');
 
 				<!-- DESKTOP -->
 				<div class="hidden-xs col-sm-8">
-					<p>Matt Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
+					<p>Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
 
 					<strong><a style="color: #333;" href='&#109;ailto&#58;m&#37;6&#67;ross&#105;&#37;38&#37;30%40gm%61i%6C&#46;c&#37;6F&#37;6&#68;'>&#109;&#108;&#114;os&#115;&#105;80&#64;gma&#105;l&#46;com</a></strong></p>
 				</div>
