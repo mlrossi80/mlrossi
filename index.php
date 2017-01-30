@@ -14,7 +14,7 @@ include('header.php');
 			<div class="row">
 
 				<div class="col-xs-3">
-					<img class="img-responsive center-block" src="img/logo.png" height="125" width="125" alt="Alex Peck">
+					<img class="img-responsive center-block" src="img/logo.png" height="125" width="125" alt="Matthew L. Rossi">
 				</div>
 
 				<div class="col-xs-9">
@@ -27,7 +27,7 @@ include('header.php');
 		
 		<!-- DESKTOP -->
 		<div class="hidden-xs col-sm-12">
-			<img class="img-responsive center-block" src="img/logo.png" height="125" width="125" alt="Alex Peck">
+			<img class="img-responsive center-block" src="img/logo.png" height="125" width="125" alt="Matthew L. Rossi">
 		</div>
 
 	</div>
