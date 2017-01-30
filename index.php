@@ -20,6 +20,7 @@ include('header.php');
 				<div class="col-xs-9">
 					<p class="lead">Matthew Rossi is a writer, editor, educator, and writing consultant.</p>
 				</div>
+				
 
 			</div>
 		</div>
