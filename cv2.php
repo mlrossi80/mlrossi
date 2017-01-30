@@ -5,6 +5,7 @@ $title = 'Curriculum Vitae';
 include('header.php'); 
 ?>
 
+
 <div class="container logoblock"> 
 	<div class="row">
 

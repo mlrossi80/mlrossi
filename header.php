@@ -33,7 +33,7 @@
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 	
-	<!-- Alex's Custom CSS -->
+	<!-- Custom CSS -->
 	<link rel="stylesheet" href="css/main.css">
    	
    	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -52,3 +52,4 @@
 
 	<!-- navbar -->
 	<?php include('navbar.php');?>
+	

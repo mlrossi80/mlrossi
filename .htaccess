@@ -12,3 +12,4 @@ Options -Indexes
 # Error handling
 ErrorDocument 404 /404.php
 
+
