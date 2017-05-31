@@ -53,7 +53,8 @@ include('header.php');
 				<!-- MOBILE -->
 				<div class="visible-xs col-xs-12">
 					<p>Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
-
+					<p>If you want help developing a book proposal or editing a manuscript, send a note by e-mail to have a chat and get an estimate done.</p>
+					
 					<strong><a style="color: #333;" href='&#109;ailto&#58;m&#37;6&#67;ross&#105;&#37;38&#37;30%40gm%61i%6C&#46;c&#37;6F&#37;6&#68;'>&#109;&#108;&#114;os&#115;&#105;80&#64;gma&#105;l&#46;com</a></strong></p>
 
 				</div>
@@ -61,7 +62,8 @@ include('header.php');
 				<!-- DESKTOP -->
 				<div class="hidden-xs col-sm-8">
 					<p>Matthew Rossi is a novelist, essayist, and artist. His fiction is published or forthcoming in NY Tyrant, JERRY, Common Ground Review, West Branch, Gigantic Worlds, and elsewhere. He also regularly contributes essays to Microcosmos. He has taught writing at Columbia University, Fordham University, Baruch College, and Michigan State.</p>
-
+					<p>If you want help developing a book proposal or editing a manuscript, send a note by e-mail to have a chat and get an estimate done.</p>
+					
 					<strong><a style="color: #333;" href='&#109;ailto&#58;m&#37;6&#67;ross&#105;&#37;38&#37;30%40gm%61i%6C&#46;c&#37;6F&#37;6&#68;'>&#109;&#108;&#114;os&#115;&#105;80&#64;gma&#105;l&#46;com</a></strong></p>
 				</div>
 			</div> <!-- end bio -->
